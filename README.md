@@ -29,6 +29,7 @@ ANÁLISIS EN POWER BI
 Por último, se hizo un análisis en general en Power BI, en el que se hicieron las siguientes gráficas: 
 
 
+https://docs.google.com/document/d/1sw9Jx9wH5iobrNyPcvXUSPbp-ycnoJH_anFaHf7jLwA/edit?usp=sharing
 
 
 
