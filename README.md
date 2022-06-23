@@ -14,6 +14,12 @@ README. PROYECTO ANÁLISIS DE DATOS: DEPORTISTAS MEJOR PAGADOS
 >>>>>>> 7ab9fc4808cb85ac15d7df61d0bed380b6424e5c
 
 
+**Integrantes**
+
+- Adriana Carolina Sánchez Cahuich
+- Ivan Alejandro Gómez Simón
+
+
 **INTRODUCCIÓN**
 En este proyecto se analizó el CSV sobre los atletas mejor pagados en 2020. El cual contiene los nombres de los atletas, el país al que pertenecen, sus ganancias, así como los rankings obtenidos por año.
 
