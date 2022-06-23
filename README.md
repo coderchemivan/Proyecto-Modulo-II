@@ -1,3 +1,12 @@
+
+Integrantes: 
+
+
+* Adriana Carolina Sánchez Cahuich
+* Ivan Alejandro Gómez Simón
+
+
+
 README. PROYECTO ANÁLISIS DE DATOS: DEPORTISTAS MEJOR PAGADOS 
 
 INTRODUCCIÓN 
