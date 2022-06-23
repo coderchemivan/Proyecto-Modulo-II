@@ -1,13 +1,15 @@
-README. PROYECTO ANÁLISIS DE DATOS: DEPORTISTAS MEJOR PAGADOS 
+README. PROYECTO ANÁLISIS DE DATOS: DEPORTISTAS MEJOR PAGADOS
 
-INTRODUCCIÓN 
+
+**INTRODUCCIÓN**
 En este proyecto se analizó el CSV sobre los atletas mejor pagados en 2020. El cual contiene los nombres de los atletas, el país al que pertenecen, sus ganancias, así como los rankings obtenidos por año.
 
-TIDY DATA
+
+**TIDY DATA**
 Como primer paso se consideraron las buenas prácticas de data. Se rellenaron los espacios vacíos de la columna ‘Previus Year’ con un N/A (No Aplica), ya que en algunos casos los deportistas no tuvieron un antecedente de ranking en el año previo. Se homogenizaron los datos de la columna deportes, colocando una mayúscula a la primera letra de cada deporte en la columna. 
 
 
-SOLUCIÓN DE PREGUNTAS
+**SOLUCIÓN DE PREGUNTAS**
 Con la Información dada, se resolvieron las siguientes preguntas: 
 •	Deportistas cuyo ranking ha subido al menos dos lugares entre 2010 y 2020.
 Para esto se realizó una tabla nueva en la cual se visualizó de mejor forma el ranking que obtuvo cada deportista por año. Con la cual se concluyó que si hubo una gran cantidad de deportistas que ascendieron con el tiempo y otros que no tuvieron oportunidad de volver a obtener un lugar en el ranking. 
@@ -25,7 +27,7 @@ En esta pregunta se hizo una tabla con columnas de los atletas y las tres décad
 En esta última se consideró una tabla con la columna de deportes, años y ganancias, estas últimas sumadas de acuerdo a los valores de los deportes por año. 
 
 
-ANÁLISIS EN POWER BI
+**ANÁLISIS EN POWER BI**
 Por último, se hizo un análisis en general en Power BI, en el que se hicieron las siguientes gráficas: 
 
 
